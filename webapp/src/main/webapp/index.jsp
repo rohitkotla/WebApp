@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning ! </h1>
 
-   Amit  & Rohit
+
 </form>
